@@ -1,7 +1,4 @@
-
-
-<!---
-IDev11/IDev11 is a ✨ special ✨ repository because its `README.m# Hi, I'm Abdeldjalil Lamara
+# Hi, I'm Abdeldjalil Lamara
 
 Master's Student in Bioinformatics  
 Data Engineering & Data Science Enthusiast  
@@ -60,6 +57,3 @@ Currently open to a 2–3 month internship to apply and grow my skills in real-w
 ---
 
 "Turning complex biological data into clear, actionable insights — one pipeline at a time."
-d` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
