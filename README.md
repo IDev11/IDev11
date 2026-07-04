@@ -21,10 +21,10 @@ Currently open to a 2–3 month internship to apply and grow my skills in real-w
 ## Tech Stack
 
 - Languages: Python, SQL  
-- Tools: Apache Spark, Docker, Git, Power BI  
+- Tools: Apache Spark, Docker, Git, Power BI, Airflow, DBT
 - Databases: PostgreSQL, Snowflake, MongoDB  
 - Bioinformatics: Genomic Analysis, Clustering Algorithms  
-- Cloud: Microsoft Azure, AWS (learning)
+- Cloud: Gougle Cloud Platform (GCP)
 
 ---
 
@@ -40,9 +40,9 @@ Currently open to a 2–3 month internship to apply and grow my skills in real-w
 
 ## Certifications & Programs
 
+- IBM Data Engineering Professional Certificate
 - Certified Data Engineer – DataCamp  
-- Certified Associate Data Engineer – DataCamp  
-- IBM Data Engineering Professional Certificate (In Progress)  
+- Certified Associate Data Engineer – DataCamp   
 - McKinsey Forward – Data-Driven Decision Making  
 - Aspire Leaders Program – Global Leadership Training  
 
