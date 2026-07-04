@@ -8,20 +8,20 @@ Algiers, Algeria | abdeldjalil.lamara@etu.usthb.dz
 
 ---
 
-## About Me
-I'm a master's student in Bioinformatics at USTHB with a strong interest in data engineering and applied data science.  
-I've built pipelines for cancer biomarker detection and real-time streaming analytics, developed interactive clustering and ML experimentation apps, and mentored students as a Section Leader in Stanford's Code in Place.
+## Professional Summary
+Bioinformatics researcher and data engineer with hands-on experience building scalable, reproducible pipelines for biological data. Currently developing the MobiDB Knowledgebase Integration Pipeline at the Biocomputing Lab, University of Padua, under the supervision of Prof. Damiano Piovesan. Additional experience in product management at Huawei Technologies and technical mentoring at Stanford University. Proficient in Python, Apache Spark, Nextflow, Docker, and Google Cloud Platform.
 
-Currently open to internships and work opportunities to apply and grow my skills in real-world environments.
+Currently open to a 2–3 month internship to apply and grow my skills in real-world environments.
 
 ---
 
-## Tech Stack
-- **Languages:** Python, SQL, JavaScript  
-- **Tools:** Apache Spark, Kafka, Docker, Git, Power BI, Grafana, Airflow, dbt  
-- **Databases:** PostgreSQL, Snowflake, MongoDB  
-- **Bioinformatics:** Genomic Analysis, Clustering Algorithms  
-- **Cloud:** Google Cloud Platform (GCP)
+## Technical Skills
+- **Programming Languages:** Python, SQL, Java, C++, R  
+- **Data Engineering:** Apache Spark, Apache Airflow, Apache Kafka, ETL Pipeline Design, Snowflake, BigQuery, PostgreSQL, MongoDB, Data Warehousing, Streaming Analytics  
+- **Bioinformatics:** Nextflow, nf-core, Genomics Pipelines, Sequence Alignment, Smith-Waterman Algorithm, Biological Data Integration, Pipeline Standardization  
+- **Cloud & DevOps:** Google Cloud Platform (BigQuery, Dataplex, Dataflow, Pub/Sub), Amazon Web Services, Docker, Git, GitHub  
+- **Visualization & BI:** Power BI, Plotly, Streamlit  
+- **Product Management:** Requirements Analysis, Solution Architecture, Technical Proposals, Stakeholder Presentations, Client Engagement
 
 ---
 
